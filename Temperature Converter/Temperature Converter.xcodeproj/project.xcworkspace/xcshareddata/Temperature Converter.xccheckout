@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>145316EB-725B-40D9-8211-FE5889C9A564</string>
+	<string>F0E7F04F-1E0D-4A50-A128-4BC91BF85F94</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Temperature Converter</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>8BA45667-A70E-4F1F-8FDC-28C210E28B68</string>
 			<key>IDESourceControlWCCName</key>
-			<string>TemperatureConverter</string>
+			<string>Temperature Converter</string>
 		</dict>
 	</array>
 </dict>
